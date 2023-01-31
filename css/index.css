@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Wallpoet';
+    src: url('font/Wallpoet-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+   
+}
+@font-face {
+    font-family: 'Tourney';
+    src: url('font/Tourney-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'PressStart2P';
+    src: url('font/PressStart2P-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+   
+}
+button{
+    background-color: black;  
+    border-radius: 10px; 
+    width: 100px; 
+    height: 40px;
+    border: solid 1px whitesmoke ;
+}
+p{
+    font-family: 'Tourney';
+}
+.red-bg{
+    background :red
+}
+.blue{
+    background :blue
+}
